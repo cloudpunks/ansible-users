@@ -1,6 +1,6 @@
 ---
 repository:
-  name: users
+  name: ansible-users
   description: Ansible role to manage system users
   topics: ansible, role, ansible-role, hacktoberfest
 
